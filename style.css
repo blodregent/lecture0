@@ -1,0 +1,39 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+
+#top {
+    background-color: lightgray;
+    width: auto;
+    height: auto;
+    margin: 30px;
+    padding: 100px;
+    font-family: Arial, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    border: 2px solid black;
+    text-align: center;
+
+}
+
+#middle {
+  text-decoration-color: white;
+  background-color: gray;
+  font-size: 30px;
+}
+table {
+  border: 2px solid black;
+  border-collapse: collapse;
+  margin-bottom: 10px;
+  width: 50%;
+
+}
+
+th,td {
+  border: 1px solid black;
+}
+
+th  {
+  background-color: lightgray;
+}
